@@ -1,0 +1,21 @@
+/*CSS FOR THE TABLE STYLING*/
+table,td,tr{
+    border-collapse: collapse;
+    border: 5px solid black;
+    margin: 5% 20%;
+    padding: 2%;
+    margin: 0% 20%;
+
+}
+#Heading1{
+    color: green;
+    text-align: center;
+    font-weight: bold;
+    
+}
+#r1{
+    font-weight: bold;
+    font-size: x-large;
+    color: rgb(48, 0, 92);
+    
+}
